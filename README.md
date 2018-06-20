@@ -2,10 +2,16 @@
 
 ## Content
 
+### Middlewares
+
 - logging
 - error handling
 - request filtering
 - result formatting
+
+### Utils
+
+- mongodb connector
 
 
 ## Related projects
